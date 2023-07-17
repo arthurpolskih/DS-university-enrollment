@@ -7,3 +7,10 @@ Data Science Project that awarded me with a certificate - **Datacamp's Data Scie
 This is a **fictional dataset** and problem. 
 The university started offering online courses to reach a wider range of students. The university wanted me to help them understand enrollment trends.
 I helped them to identify what contributes to higher enrollment. In particular, whether the course type (online or classroom) is a factor.
+
+## Competencies and Packages Included
+- **Data Management:** Pandas, NumPy, OneHotEncoder
+- **Exploratory Analysis**
+- **Statistical Experimentation:** sklearn - ColumnTransformer, GridSearchCV
+- **Modeling**: sklearn - LinearRegression, RandomForestRegressor
+- **Communication and Visualization:** Seaborn, Matplotlib
